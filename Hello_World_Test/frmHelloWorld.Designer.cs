@@ -94,7 +94,7 @@ namespace Hello_World_Test
             this.Controls.Add(this.txtFirstName);
             this.Name = "frmHelloWorld";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Hello World";
+            this.Text = "Hello World Test";
             this.Load += new System.EventHandler(this.frmHelloWorld_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
